@@ -5,7 +5,7 @@ window 桌面版maven批量上传私服工具
 - 开发语言：python (3.12+)
 - 运行依赖：JDK、Maven
 ### 界面  
-![上传界面](./example.png)
+![上传界面](example.png)
 
 ### 功能说明
 - 支持jar包批量上传到私服
